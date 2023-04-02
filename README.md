@@ -2,18 +2,24 @@
 
 Authors: Ting Cao & [Ziyu Zhang](https://github.com/Ilxxll)
 
-In this task, you are required to report the time taken to do matrix multiplication, addition, and inner product using the provided  scripts from Canvas for different matrix sizes (2000, 3000, 4000, 5000, and 6000). You will need to plot the time cost as a function of size and submit mage. Additionally, you need to check whether the time cost increases by SIZE^3 for multiplication and by SIZE^2 for addition and inner product as the matrix size increases and provide reasonable explianation.
+In this task, you are required to report the time taken to do matrix multiplication, addition, and inner product using the provided scripts from Canvas for different matrix sizes (2000, 3000, 4000, 5000, and 6000). You will need to plot the time cost as a function of size and submit the resulting image. Moreover, you should verify whether the time cost increases proportionally to SIZE^3 for multiplication and SIZE^2 for addition and inner product as the matrix size increases, and provide a reasonable explanation for your findings.
 
 Instructions:
 
-Download the scripts file provided.
-Modify the script to change the value of SIZE to 2000, 3000, 4000, 5000, and 6000, respectively.
-Run the script for each SIZE and record the time taken for matrix multiplication, addition, and inner product.
-Plot the time cost as a function of size.
-Upload the image here along with your observations on whether the time cost increases by SIZE^3 for multiplication and by SIZE^2 for addition and inner product as the matrix size increases.
-Note:
+1.Download the scripts file provided.
 
-You can use the time module to record the time taken for matrix multiplication, addition, and inner product.
-You can use any plotting library of your choice.
-Make sure to include appropriate axis labels, titles, and legends in the plot.
+2.Modify the script to change the value of SIZE to 2000, 3000, 4000, 5000, and 6000, respectively.
+
+3.Run the script for each SIZE and record the time taken for matrix multiplication, addition, and inner product.
+
+4.Plot the time cost as a function of size in **1** image.
+
+5.Upload the image here along with your observations on whether the time cost increases by SIZE^3 for multiplication and by SIZE^2 for addition and inner product as the matrix size increases.
+
+Grading Criteria:
+
+- Successful completion of steps 1-5 (40%)
+- Accurate plot with appropriate axis labels, titles, and legends (30%)
+- Analysis and explanation of whether the time cost increases by SIZE^3 for multiplication and by SIZE^2 for addition and inner product as the matrix size increases (30%)
+
 Good luck!
