@@ -16,7 +16,7 @@ Authors: Ting Cao & [Ziyu Zhang](https://github.com/Ilxxll)
 
 5.Upload the image here along with your observations on whether the time cost increases by SIZE^3 for multiplication and by SIZE^2 for addition and inner product as the matrix size increases.
 
-##Grading Criteria:
+## Grading Criteria:
 
 - Successful completion of steps 1-5 (40%)
 - Accurate plot with appropriate axis labels, titles, and legends (30%)
