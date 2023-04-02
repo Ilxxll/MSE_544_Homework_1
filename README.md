@@ -27,6 +27,7 @@ Authors: Ting Cao & [Ziyu Zhang](https://github.com/Ilxxll)
 - Create a PDF file containing your image and explanation.
 - The PDF file should be named in the following format: LASTNAME_FIRSTNAME_HW1.pdf
 - Your explanation should be clear and concise, and your image should be well-labeled and easy to read.
+  - Using ChatGPT to write explanations may lead to similar results. If this is found to be the case, points may be deducted at the discretion of the instructor.
 - Submit your homework on Canvas by the due date specified in the assignment.
 - **Late submissions may result in a deduction of points unless you have made prior arrangements with the instructor.**
 
