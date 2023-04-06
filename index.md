@@ -14,7 +14,7 @@ Authors: Ting Cao & [Ziyu Zhang](https://github.com/Ilxxll)
 
 4.Plot the time cost as a function of size in **1** image.
 
-5.Upload the image here along with your observations on whether the time cost increases by SIZE^3 for multiplication and by SIZE^2 for addition and inner product as the matrix size increases.
+5.Upload the image here along with your observations on whether the time cost increases by SIZE&sup3; for multiplication and by SIZE&sup2; for addition and inner product as the matrix size increases.
 
 ## Grading Criteria:
 
