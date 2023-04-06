@@ -2,11 +2,11 @@
 
 Authors: Ting Cao & [Ziyu Zhang](https://github.com/Ilxxll)
 
-**In this task, you are required to report the time taken to do matrix multiplication, addition, and inner product using the provided scripts from Canvas for different matrix sizes (2000, 3000, 4000, 5000, and 6000). You will need to plot the time cost as a function of size and submit the resulting image. Moreover, you should verify whether the time cost increases proportionally to SIZE^3 for multiplication and SIZE^2 for addition and inner product as the matrix size increases, and provide a reasonable explanation for your findings.**
+**In this task, you are required to report the time taken to do matrix multiplication, addition, and inner product using the provided scripts from Canvas for different matrix sizes (2000, 3000, 4000, 5000, and 6000). You will need to plot the time cost as a function of size and submit the resulting image. Moreover, you should verify whether the time cost increases proportionally to SIZE&sup3;`(cube of SIZE)` for multiplication and SIZE&sup2;`(square of SIZE)` for addition and inner product as the matrix size increases, and provide a reasonable explanation for your findings.**
 
 ## Instructions:
 
-1.Download the scripts file provided.
+1.Download the zip file from Canvas.
 
 2.Modify the script to change the value of SIZE to 2000, 3000, 4000, 5000, and 6000, respectively.
 
@@ -18,9 +18,9 @@ Authors: Ting Cao & [Ziyu Zhang](https://github.com/Ilxxll)
 
 ## Grading Criteria:
 
-- Successful completion of steps 1-5 (40%)
-- Accurate plot with appropriate axis labels, titles, and legends (30%)
-- Analysis and explanation of whether the time cost increases by SIZE^3 for multiplication and by SIZE^2 for addition and inner product as the matrix size increases (30%)
+- Successful completion of steps 1-5 (50%)
+- Accurate plot with appropriate axis labels, titles, and legends (20%)
+- Analysis and explanation of whether the time cost increases by SIZE&sup3; for multiplication and by SIZE&sup2; for addition and inner product as the matrix size increases (30%)
 
 ## Submission:
 
